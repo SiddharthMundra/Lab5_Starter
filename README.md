@@ -11,5 +11,5 @@ Hartej Singh
 
 # Links to website:
 
-- [Expose](https://siddharthmundra.github.io/Lab5_Starter/expose.js)
-- [Explore](https://siddharthmundra.github.io/Lab5_Starter/explore.js)
+- [Expose](https://siddharthmundra.github.io/Lab5_Starter/expose.html)
+- [Explore](https://siddharthmundra.github.io/Lab5_Starter/explore.html)
