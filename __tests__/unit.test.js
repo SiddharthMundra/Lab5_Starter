@@ -108,4 +108,3 @@ test('Invalid hex color 1 (invalid characters)', () => {
 test('Invalid hex color 2 (too short)', () => {
   expect(isHexColor('#ab')).toBe(false);
 });
-
